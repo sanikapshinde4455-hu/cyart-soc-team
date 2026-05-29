@@ -113,5 +113,4 @@ This repository contains Week 4 SOC practical activities focused on threat hunti
 
 Successfully completed SOC practical activities involving detection, triage, incident response, adversary emulation, automation, and reporting using modern SOC tools and MITRE ATT&CK methodologies.
 
-Author
-Sanika Shinde
+
