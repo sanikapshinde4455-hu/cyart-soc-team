@@ -77,17 +77,6 @@ This repository contains theoretical and practical SOC (Security Operations Cent
 * Calculated MTTD and MTTR.
 * Created dashboards and executive reports.
 
-## Repository Structure
-
-├── screenshots/
-├── reports/
-├── dashboards/
-├── evidence/
-├── incident-response/
-├── threat-hunting/
-├── metrics/
-└── README.md
-
 ## Key Outcomes
 
 * Improved understanding of SOC workflows.
